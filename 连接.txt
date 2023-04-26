@@ -1,0 +1,5 @@
+https://cdn.jsdelivr.net/gh/long-fei/driveSchool/ajaxfileupload.js
+https://cdn.jsdelivr.net/gh/long-fei/driveSchool/bootstrap-table-zh-CN.min.js
+https://cdn.jsdelivr.net/gh/long-fei/driveSchool/bootstrap-table.min.css
+https://cdn.jsdelivr.net/gh/long-fei/driveSchool/bootstrap-table.min.js
+https://cdn.jsdelivr.net/gh/long-fei/driveSchool/bootstrap.min.css
